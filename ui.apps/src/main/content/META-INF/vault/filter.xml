@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/digiquad/clientlibs"/>
+    <filter root="/apps/digiquad/components"/>
+    <filter root="/apps/digiquad/i18n"/>
+    <filter root="/apps/msm/digiquad_blueprint" mode="merge"/>
+</workspaceFilter>
